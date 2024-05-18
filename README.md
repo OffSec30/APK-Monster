@@ -2,6 +2,8 @@
 
 APK Monster is a comprehensive tool designed to analyze Android APK files for a wide range of security vulnerabilities. It scans and identifies potential security weaknesses in APK files, helping developers and security professionals ensure their applications are secure.
 
+Made by offsec https://offensivesec.blogspot.com/
+
 ## Features
 
 - **String Extraction**: Extracts all strings from XML, ARSC, TXT, and JSON files within the APK.
