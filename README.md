@@ -44,10 +44,3 @@ python analyze_apk.py sample.apk results.txt
 
 APK Monster generates a detailed report highlighting each aspect of the APK’s security. The report categorizes issues and provides clear indications of potential vulnerabilities, such as hardcoded secrets, insecure permissions, weak cryptography, exported components, insecure storage, insecure communication, insecure authentication, code quality issues, tampering protections, reverse engineering issues, and extraneous functionality.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out.
